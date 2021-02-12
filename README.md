@@ -26,4 +26,4 @@ https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
 
 ##
 
-Includes the presentation itself, alongside six Hive Query Scripts to recreate the analyses.
+Includes the presentation with graphical references, step-by-step, alongside the six HQL scripts to recreate the analyses.
