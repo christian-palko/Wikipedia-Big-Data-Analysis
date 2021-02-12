@@ -1,6 +1,3 @@
-# Wikipedia Datasets Analysis
-
-## Answered a set of questions based on three vast Wikipedia datasets:
 
 ### Pageviews Filtered to Human Traffic
 https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
