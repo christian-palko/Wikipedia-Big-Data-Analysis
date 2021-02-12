@@ -11,7 +11,7 @@ Project 1's analysis consists of using big data tools to answer questions about 
 5. How many users will see the average vandalized wikipedia page before the offending edit is reversed? 6. Run an analysis you find interesting on the wikipedia datasets we're using.
 
 # Environment / Technologies 
-HDFS, YARN, MapReduce, Hadoop, Hive
+ Hive, HDFS, YARN, MapReduce
 
 # Run the analyses yourself
 To set this up for yourself, you will need to have HDFS, YARN, and Hive on your system. The queries necessary to construct a managed database, tables, and to query from the data, are all contained in order within the respective HQL files. You can download a sample of your choosing from the vast datasets below:
