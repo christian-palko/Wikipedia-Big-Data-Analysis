@@ -12,6 +12,13 @@ Project 1's analysis consists of using big data tools to answer questions about 
 
 # Environment / Technologies 
  Hive, HDFS, YARN, MapReduce
+ 
+# Roles / Responsibilities 
+* Created managed Hive tables, loading in local sampled data for specific querying.
+* Created intermediate tables for optimization and clarity of code.
+* Developed advanced queries containing sub-queries, joins, 'create table as', pattern matching, and aggregate & scalar functions
+* Ran Hadoop MapReduce jobs on a single-node cluster through Hive queries, leveraging HDFS and YARN.
+* Analyzed queried, sampled data to attempt to extract insight and meaning, while recognizing shortcomings, assumptions, and caveats.
 
 # Run the analyses yourself
 To set this up for yourself, you will need to have HDFS, YARN, and Hive on your system. The queries necessary to construct a managed database, tables, and to query from the data, are all contained in order within the respective HQL files. You can download a sample of your choosing from the vast datasets below:
